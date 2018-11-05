@@ -1,0 +1,26 @@
+{
+  "name": "gmlk20-ndjson",
+  "version": "1.0.0",
+  "description": "create GeoJSON Text Sequence of Global Map Sri Lanka 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/gmlk20-ndjson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/gmlk20-ndjson/issues"
+  },
+  "homepage": "https://github.com/hfu/gmlk20-ndjson#readme",
+  "dependencies": {
+    "config": "^2.0.1",
+    "hjson": "^3.1.1",
+    "node-fetch": "^2.2.0",
+    "shapefile": "^0.6.6"
+  }
+}

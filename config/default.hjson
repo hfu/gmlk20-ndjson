@@ -1,0 +1,15 @@
+{
+  url: https://globalmaps.github.io/gmlk20
+  cc: lka
+  layers: [
+    coastl
+    roadl
+    riverl
+    inwatera
+    polbndl
+    raill
+    airp
+    builtupp
+    polbnda
+  ]
+}
